@@ -1,4 +1,13 @@
-<h1 align="center"><b>Hey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"  <b> , I'm Jeevaga Kirupha Roopan </b> <img src="https://media.tenor.com/ecVYTSfXQZ8AAAAj/stoplight-stoplightio.gif" width="45"></h1>
+
+<h1 align="center"><b>Hey </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"  <b> , This is Jeevaga Kirupha Roopan</b> <img src="https://media.tenor.com/s6PDSbCfGpIAAAAj/stoplight-stoplightio.gif" width="80"></h1>
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Happiest+Human/Machine+Alive..&hearts;++;Self-taught+Robotics+Developer,;Mechatronics+Student,;Gamer/Technology+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
+</p>
+
+
+
 <!--
 **RoopanJK/RoopanJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
