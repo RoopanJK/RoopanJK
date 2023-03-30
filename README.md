@@ -35,6 +35,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
    ![Robot Language](https://img.shields.io/badge/Robot%20Language-000000?logo=robot-framework&logoColor=red&style=for-the-badge)
+   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
    
 - **Frameworks**:
@@ -48,8 +49,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![ABB Robot Studio](https://img.shields.io/badge/ABB%20Robot%20Studio-000000?logo=abb%20robotstudio&style=for-the-badge&logoColor=red)
    ![B&R Automation Studio](https://img.shields.io/badge/-B&R%20Automation%20Studio-FF8800?logo=bandr%20automation&style=for-the-badge)
-   ![BR](
-
+   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
    
 <!--
 **RoopanJK/RoopanJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
