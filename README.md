@@ -52,7 +52,7 @@
    ![B&R Automation Studio](https://img.shields.io/badge/-B&R%20Automation%20Studio-FF8800?logo=bandr%20automation&style=for-the-badge)
    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
    
-<img src="https://github.com/RoopanJK/RoopanJK/assets/gifs/breakline.gif">
+<img src="https://github.com/RoopanJK/RoopanJK/blob/main/assets/gifs/breakline.gif">
    
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats
 
