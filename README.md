@@ -12,7 +12,7 @@
 ## <picture><img src = "https://github.com/RoopanJK/RoopanJK/blob/main/assets/gifs/about_me.gif" width = 35px></picture> <font size = "2"> **About me**
 
 
-<picture> <img align="right" src="https://github.com/RoopanJK/RoopanJK/blob/main/assets/gifs/programmer_typing.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/RoopanJK/RoopanJK/blob/main/assets/gifs/programmer_typing.gif" width = 400px></picture>
 
 
 - 🦾 A passionate Self-taught Robotics Developer.
