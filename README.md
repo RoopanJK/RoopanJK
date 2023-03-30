@@ -7,12 +7,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Happiest+Human/Machine+Alive..&hearts;++;Self-taught+Robotics+Developer,;Mechatronics+Engineer,;Gamer/Technology+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/RoopanJK/RoopanJK/assets/gifs/breakline.gif">
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> <font size = "2"> **About me**
+## <picture><img src = "https://github.com/RoopanJK/RoopanJK/assets/gifs/about_me.gif" width = 35px></picture> <font size = "2"> **About me**
 
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/RoopanJK/RoopanJK/assets/gifs/programmer_typing.gif" width = 250px></picture>
 
 
 - 🦾 A passionate Self-taught Robotics Developer.
@@ -23,7 +23,7 @@
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) 
 - [my resume](https://read.cv/0xabdulkhalid) -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/RoopanJK/RoopanJK/assets/gifs/breakline.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
   
@@ -52,7 +52,7 @@
    ![B&R Automation Studio](https://img.shields.io/badge/-B&R%20Automation%20Studio-FF8800?logo=bandr%20automation&style=for-the-badge)
    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
    
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/RoopanJK/RoopanJK/assets/gifs/breakline.gif">
    
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats
 
@@ -64,9 +64,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=RoopanJK&theme=algolia&hide_border=true"width="550" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/RoopanJK/RoopanJK/assets/gifs/breakline.gif">
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b> Let's Connect..!</b>
+## <img src="https://github.com/RoopanJK/RoopanJK/assets/gifs/handshake.gif" width ="60"> <b> Let's Connect..!</b>
 
 <p align ="center" >
   <a href="https://www.linkedin.com/in/jeevaga-kirupha-roopan-s-881565221" target="_blank">
@@ -83,4 +83,6 @@
 
 </p>
   
+<img src="https://github.com/RoopanJK/RoopanJK/assets/gifs/breakline.gif">
+
  
