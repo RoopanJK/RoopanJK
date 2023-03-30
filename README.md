@@ -64,18 +64,21 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=RoopanJK&theme=algolia&hide_border=true"width="550" />
 </p>
   
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b> Let's Connect..!</b>
+
+<p align ="center" >
+  <a href="https://www.linkedin.com/in/jeevaga-kirupha-roopan-s-881565221" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
   
-<!--
-**RoopanJK/RoopanJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="mailto:jeevagakirupharoopan@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+  
+  <a href="https://www.reddit.com/user/JKRoopan" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt=reddit style="margin-bottom: 5px;" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+  
+ 
