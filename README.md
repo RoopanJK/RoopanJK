@@ -49,7 +49,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![ABB Robot Studio](https://img.shields.io/badge/ABB%20Robot%20Studio-000000?logo=abb%20robotstudio&style=for-the-badge&logoColor=red)
-   ![B&R Automation Studio](https://img.shields.io/badge/-B&R%20Automation%20Studio-FF8800?logo=bandr%20automation&style=for-the-badge)
+   ![B&R Automation Studio](https://img.shields.io/badge/-B&R%20Automation%20Studio-FF8800?logo=bandrautomation&style=for-the-badge&logoColor=white)
    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
    
 <img src="https://github.com/RoopanJK/RoopanJK/blob/main/assets/gifs/breakline.gif">
