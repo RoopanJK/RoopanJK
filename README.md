@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Robotics+Developer,;Mechatronics+Engineer,;Gamer/Technology+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Robotics+Developer,;Mechatronics+Engineer,;Gamer/Technology+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuff..;)"></a>
 </p>
 
 <img src="https://github.com/RoopanJK/RoopanJK/blob/main/assets/gifs/breakline.gif">
