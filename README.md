@@ -18,7 +18,7 @@
 - 🦾 A passionate Self-taught Robotics Developer.
 - 🎓 Completed Bachelor's in Mechatronics Engineering.
 - 👨🏻‍💻 Currently working on Autonomous Mobile Robots.
-- 📝 Overwhelming interests in ROS, CUDA, QT, HIP.
+- 📝 Overwhelming interests in ROS, ROS2, CUDA.
 - 🎮 Casual Gamer
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) 
 - [my resume](https://read.cv/0xabdulkhalid) -->
@@ -75,10 +75,6 @@
   
   <a href="mailto:jeevagakirupharoopan@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-  
-  <a href="https://www.reddit.com/user/JKRoopan" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt=reddit style="margin-bottom: 5px;" />
 </a>
 
 </p>
